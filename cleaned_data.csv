@@ -1,0 +1,7 @@
+OrderID,CustomerName,Region,Sales,Date
+1,Rahul,North,500.0,2026-10-01
+2,Amit,South,200.0,2026-10-02
+3,Priya,East,350.0,2026-10-03
+4,Rahul,North,280.0,2026-10-04
+5,Neha,West,450.0,2026-10-05
+6,Amit,South,300.0,2026-10-06
